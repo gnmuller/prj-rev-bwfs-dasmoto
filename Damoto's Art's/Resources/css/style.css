@@ -1,0 +1,52 @@
+.pattern{
+  position: relative;
+  text-align: horizontal;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight:bold;
+  color:khaki;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#Brushes{
+  background-color: green;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+.start_time{
+  font-family: Helvetica;
+  font-weight:bold;
+  color:blue;
+}
+#Frames{
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+.Frame_price{
+  font-family: skyblue;
+  font-weight:bold;
+  color:blue;
+}
+#paint{
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.finnish_price{
+  font-family: Helvetica;
+  font-weight:bold;
+  color:blue;
+}
